@@ -11,7 +11,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 build-mode = "both"
 
 [YouTube]
-enabled = false
+enabled = true
 build-mode = "both"
 excluded-patches = ""
 included-patches = ""
@@ -29,7 +29,7 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [GooglePhotos]
-enabled = false
+enabled = true
 build-mode = "both"
 arch = "both"
 version = "auto"
@@ -69,9 +69,9 @@ uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [Twitter]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
-build-mode = "apk"
+build-mode = "both"
 dpi = "120-640dpi"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
