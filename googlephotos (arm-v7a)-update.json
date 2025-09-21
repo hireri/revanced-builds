@@ -1,6 +1,6 @@
 {
-  "version": "v7.45.0.807274941 (patches: 5.39.0)",
-  "versionCode": 19,
-  "zipUrl": "https://github.com/hireri/revanced-builds/releases/download/19/googlephotos-revanced-magisk-v7.45.0.807274941-arm-v7a.zip",
+  "version": "v7.45.0.807274941 (patches: 5.40.0)",
+  "versionCode": 20,
+  "zipUrl": "https://github.com/hireri/revanced-builds/releases/download/20/googlephotos-revanced-magisk-v7.45.0.807274941-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/hireri/revanced-builds/update/build.md"
 }
