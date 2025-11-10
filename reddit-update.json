@@ -1,6 +1,6 @@
 {
-  "version": "v2024.17.0 (patches: 5.45.0)",
-  "versionCode": 26,
-  "zipUrl": "https://github.com/hireri/revanced-builds/releases/download/26/reddit-revanced-magisk-v2024.17.0-all.zip",
+  "version": "v2024.17.0 (patches: 5.46.0)",
+  "versionCode": 27,
+  "zipUrl": "https://github.com/hireri/revanced-builds/releases/download/27/reddit-revanced-magisk-v2024.17.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/hireri/revanced-builds/update/build.md"
 }
